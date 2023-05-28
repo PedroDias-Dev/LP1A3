@@ -1,0 +1,5 @@
+Nome: Marcelo
+Idade: 12
+Gênero: M
+Altura: 2.0 metros
+Peso: 76.0 kg
